@@ -33,7 +33,7 @@ The analysis was performed using Python for data cleaning, exploration, and visu
 ---
 
 
-## 📊 Dashboard Highlights
+## Dashboard Highlights
 
 - Revenue Analysis
 - Profit Analysis
@@ -45,7 +45,7 @@ The analysis was performed using Python for data cleaning, exploration, and visu
 
 ---
 
-## 📈 Key Insights
+## Key Insights
 
 - Identified top-performing products and categories.
 - Analyzed revenue contribution across regions.
@@ -54,16 +54,6 @@ The analysis was performed using Python for data cleaning, exploration, and visu
 - Generated actionable business recommendations.
 
 ---
-
-## 🗃️ Dataset
-
-**Add your dataset here:**
-
-```text
-Dataset/
-└── Your_Dataset_File.csv
-```
-
 
 ## How to Run
 
@@ -88,5 +78,3 @@ pip install pandas numpy matplotlib seaborn
 
 ---
 
-
-⭐ If you found this project useful, consider giving it a star.
