@@ -1,8 +1,8 @@
 # 🚚 Supply Chain Analytics Dashboard
 
-![Supply Chain Banner](https://images.unsplash.com/photo-1586528116311-ad8dd3c8310d?w=1200)
+![Supply Chain Banner](supply.jpg)
 
-## 📌 Project Overview
+## Project Overview
 
 This project focuses on analyzing supply chain operations to identify trends, improve operational efficiency, and support data-driven decision-making.
 
@@ -10,7 +10,7 @@ The analysis was performed using Python for data cleaning, exploration, and visu
 
 ---
 
-## 🎯 Business Objectives
+##  Business Objectives
 
 - Monitor supply chain performance
 - Analyze sales and profit trends
@@ -20,33 +20,18 @@ The analysis was performed using Python for data cleaning, exploration, and visu
 
 ---
 
-## 🛠️ Technologies Used
+##  Technologies Used
 
 - Python
 - Pandas
 - NumPy
-- Matplotlib
-- Seaborn
-- Jupyter Notebook
+- Plotly
+- Google Colab
+- CSS
 - HTML Dashboard
 
 ---
 
-## 📂 Project Structure
-
-```text
-Supply_Chain_Project/
-│
-├── Supply_Chain_Analysis.ipynb
-├── Supply_Chain_Dashboard.html
-├── Dataset/
-│   └── Your_Dataset_File.csv
-├── Images/
-│   └── dashboard_screenshot.png
-└── README.md
-```
-
----
 
 ## 📊 Dashboard Highlights
 
@@ -79,32 +64,12 @@ Dataset/
 └── Your_Dataset_File.csv
 ```
 
-### Dataset Information
 
-| Attribute | Details |
-|------------|----------|
-| Source | Add Source |
-| Records | Add Count |
-| Features | Add Count |
-| Time Period | Add Period |
-
----
-
-## 📸 Dashboard Screenshot
-
-Replace the image below with your dashboard screenshot.
-
-```text
-Images/dashboard_screenshot.png
-```
-
----
-
-## 🚀 How to Run
+## How to Run
 
 1. Clone the repository.
 2. Install required libraries.
-3. Open the Jupyter Notebook.
+3. Open the Google Colab Notebook.
 4. Run all cells.
 5. Open the HTML dashboard.
 
@@ -114,7 +79,7 @@ pip install pandas numpy matplotlib seaborn
 
 ---
 
-## 💡 Future Improvements
+##  Future Improvements
 
 - Predictive demand forecasting
 - Inventory optimization
@@ -123,14 +88,5 @@ pip install pandas numpy matplotlib seaborn
 
 ---
 
-## 👤 Author
-
-**Bhagya Sree**
-
-Aspiring Data Analyst | Future Data Scientist
-
-LinkedIn: Add Your LinkedIn Profile
-
----
 
 ⭐ If you found this project useful, consider giving it a star.
